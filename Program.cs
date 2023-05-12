@@ -3,6 +3,7 @@
 
 namespace Assessment {
 
+    //For Assessment Number 1
     class Clock {
 
         /*
@@ -69,7 +70,7 @@ namespace Assessment {
                 //calculate lesser 
                 //if minute hand is points at value lesser than hour (with respect to hours), the result inverts 
                 double lesser =  Math.Abs(degreesMins - degreesHours) > 180 ? 360 - Math.Abs(degreesMins - degreesHours) : Math.Abs(degreesMins - degreesHours);
-                Console.WriteLine("Lesser Degrees: {0}", lesser);
+                Console.WriteLine("Lesser Degrees: {0}", Math.Round(lesser, 2));
             }
 
         }
@@ -116,10 +117,18 @@ namespace Assessment {
     }
    
 
+    //Main Program
     class Program {
         static void Main(string[] args) {
-            //Clock.solve();
-            Tree.solve();
+
+            int sel = 0;
+            Console.Write("Please enter an assessment number (1 or 2): ");
+            if(Int32.TryParse(Console.ReadLine(), out sel)){
+                switch(sel){
+                    case 1: Clock.solve(); break;
+                    case 2: Tree.solve(); break;
+                }
+            }
         }
 
     }
