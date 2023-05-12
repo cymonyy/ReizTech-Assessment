@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\cymon\\Documents\\GitHub\\ReizTech-Assessment\\ReizTech-Assessment.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\cymon\\Documents\\GitHub\\ReizTech-Assessment\\ReizTech-Assessment.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\cymon\\Documents\\GitHub\\ReizTech-Assessment\\ReizTech-Assessment.csproj",
+        "projectName": "ReizTech-Assessment",
+        "projectPath": "C:\\Users\\cymon\\Documents\\GitHub\\ReizTech-Assessment\\ReizTech-Assessment.csproj",
+        "packagesPath": "C:\\Users\\cymon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cymon\\Documents\\GitHub\\ReizTech-Assessment\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\cymon\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.311\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

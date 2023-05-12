@@ -1,0 +1,15 @@
+C:\Users\cymon\Documents\GitHub\ReizTech-Assessment\bin\Debug\net6.0\ReizTech-Assessment.exe
+C:\Users\cymon\Documents\GitHub\ReizTech-Assessment\bin\Debug\net6.0\ReizTech-Assessment.deps.json
+C:\Users\cymon\Documents\GitHub\ReizTech-Assessment\bin\Debug\net6.0\ReizTech-Assessment.runtimeconfig.json
+C:\Users\cymon\Documents\GitHub\ReizTech-Assessment\bin\Debug\net6.0\ReizTech-Assessment.dll
+C:\Users\cymon\Documents\GitHub\ReizTech-Assessment\bin\Debug\net6.0\ReizTech-Assessment.pdb
+C:\Users\cymon\Documents\GitHub\ReizTech-Assessment\obj\Debug\net6.0\ReizTech-Assessment.csproj.AssemblyReference.cache
+C:\Users\cymon\Documents\GitHub\ReizTech-Assessment\obj\Debug\net6.0\ReizTech-Assessment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cymon\Documents\GitHub\ReizTech-Assessment\obj\Debug\net6.0\ReizTech-Assessment.AssemblyInfoInputs.cache
+C:\Users\cymon\Documents\GitHub\ReizTech-Assessment\obj\Debug\net6.0\ReizTech-Assessment.AssemblyInfo.cs
+C:\Users\cymon\Documents\GitHub\ReizTech-Assessment\obj\Debug\net6.0\ReizTech-Assessment.csproj.CoreCompileInputs.cache
+C:\Users\cymon\Documents\GitHub\ReizTech-Assessment\obj\Debug\net6.0\ReizTech-Assessment.dll
+C:\Users\cymon\Documents\GitHub\ReizTech-Assessment\obj\Debug\net6.0\refint\ReizTech-Assessment.dll
+C:\Users\cymon\Documents\GitHub\ReizTech-Assessment\obj\Debug\net6.0\ReizTech-Assessment.pdb
+C:\Users\cymon\Documents\GitHub\ReizTech-Assessment\obj\Debug\net6.0\ReizTech-Assessment.genruntimeconfig.cache
+C:\Users\cymon\Documents\GitHub\ReizTech-Assessment\obj\Debug\net6.0\ref\ReizTech-Assessment.dll
